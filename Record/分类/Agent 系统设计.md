@@ -11,5 +11,10 @@
 - [[知识/Agent/Claude code搭建/Agent 技能按需加载|Agent 技能按需加载]]：先展示目录，需要时加载全文。
 - [[知识/Agent/Claude code搭建/Agent 上下文压缩|Agent 上下文压缩]]：控制长任务的当前会话容量。
 - [[知识/Agent/Claude code搭建/Agent 持久记忆|Agent 持久记忆]]：选择并复用跨会话信息。
+- [[知识/Agent/Claude code搭建/Agent 持久任务系统|Agent 持久任务系统]]：跨会话任务状态、依赖与领取。
+- [[知识/Agent/Claude code搭建/Agent 后台任务|Agent 后台任务]]：耗时命令的后台执行与结果通知。
+- [[知识/Agent 定时调度|Agent 定时调度]]：按时间入队并启动 Agent 工作。
+- [[知识/Agent/Claude code搭建/Agent 团队协作|Agent 团队协作]]：常驻队友、共享任务与协调协议。
+- [[知识/Agent/Claude code搭建/Agent MCP 工具接入|Agent MCP 工具接入]]：动态发现外部工具并纳入权限控制。
 
 返回 [[首页]]。
